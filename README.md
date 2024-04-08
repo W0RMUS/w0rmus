@@ -1,5 +1,5 @@
 #  About Me
-* Currently working on a bachelors degree in software engineering
+* Bachelors degree in software engineering
 
 
 ## 🌐 Socials
